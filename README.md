@@ -6,8 +6,7 @@ Text to speech using Pocket Sphinx library
 
 # Requirements:
 
-- Windows with Conda
-- Linux
+- Windows with Conda or Linux
 - Python
 - Pip
 
